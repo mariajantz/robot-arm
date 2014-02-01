@@ -1,0 +1,1 @@
+Uses Python code to get data from Leap Motion. Processes data with inverse kinematics, then sends that information to the Arduino via pyserial.  Arduino code reads data and sets servo motors.  
